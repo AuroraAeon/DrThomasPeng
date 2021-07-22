@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrThomasPeng
-- 👀 I’m interested in Python & Mtlab.
+- 👀 I’m interested in Python & Matlab & LaTex.
 - 🌱 I’m currently learning Calculus.
 - 💞️ I’m looking to collaborate on Mathematics.
 - 📫 How to reach me WeCHat:ThomasPB_0523
