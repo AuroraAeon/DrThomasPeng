@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python & Matlab & LaTex.
 - 🌱 I’m currently learning Calculus.
 - 💞️ I’m looking to collaborate on Mathematics.
-- 📫 How to reach me WeCHat:ThomasPB_0523
+- 📫 How to reach me WeChat:ThomasPB_0523
 - My E-mail Address：18117044601@sina.cn
 
 <!---
